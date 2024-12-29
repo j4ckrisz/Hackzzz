@@ -1,6 +1,6 @@
 # Abusing the Golden Privileges
 
-**Permissions: **<mark style="color:green;">**User**</mark>
+**Permissions:&#x20;**<mark style="color:green;">**User**</mark>
 
 <figure><img src="../../../.gitbook/assets/seimpersonate1.png" alt=""><figcaption></figcaption></figure>
 

@@ -4,9 +4,9 @@ I was wondering for a while, **how can I hack a drone**, my question was, **a dr
 
 ## What's the concept?
 
-Nowadays **literally every drone is controlled via a **_**Wi-Fi connection**_, when you power on your drone starts an _**Access Point**_ to connect to it.&#x20;
+Nowadays **literally every drone is controlled via a&#x20;**_**Wi-Fi connection**_, when you power on your drone starts an _**Access Point**_ to connect to it.&#x20;
 
-The **majority of this AP's **_**doesn't require a password**_ to connect to it, that means if an attacker wants to have connectivity with the drone, he just need to connect to their AP to communicate with the drone.
+The **majority of this AP's&#x20;**_**doesn't require a password**_ to connect to it, that means if an attacker wants to have connectivity with the drone, he just need to connect to their AP to communicate with the drone.
 
 Knowing that, we just need to see how to get in the drone system. **Hak5 once again make it possible,** with the **Wi-Fi pineapple, you can do a cyber weapon attaching the Wi-Fi pineapple to the drone.**
 

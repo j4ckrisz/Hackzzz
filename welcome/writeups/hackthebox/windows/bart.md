@@ -1,6 +1,6 @@
 # Bart
 
-**Difficulty: **<mark style="color:red;">**HARD**</mark>
+**Difficulty:&#x20;**<mark style="color:red;">**HARD**</mark>
 
 ## Reconaissance
 

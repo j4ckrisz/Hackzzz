@@ -4,7 +4,7 @@ description: https://app.hackthebox.com/machines/514
 
 # Squashed
 
-**Difficulty: **<mark style="color:green;">**EASY**</mark>
+**Difficulty:&#x20;**<mark style="color:green;">**EASY**</mark>
 
 ## Recon
 
@@ -90,7 +90,7 @@ Downloaded and do a **make** to compile the program. You can play with it but I 
 
 <figure><img src="../../../../.gitbook/assets/perm2.png" alt=""><figcaption></figcaption></figure>
 
-Ok, here we have that we don't have permission to get into the remote folder. Why this happend? Well, if we see the permissions in the folder is in the group **www-data** so I will need a user with the same **group(uid=33)** to get in and see what we have**. Follow the next steps.**
+Ok, here we have that we don't have permission to get into the remote folder. Why this happend? Well, if we see the permissions in the folder is in the group **www-data** so I will need a user with the same **group(uid=33)** to get in and see what we hav&#x65;**. Follow the next steps.**
 
 ### Create a user, assign the group and get a shell as the user
 

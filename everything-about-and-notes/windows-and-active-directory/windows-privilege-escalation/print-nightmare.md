@@ -1,6 +1,6 @@
 # Print-Nightmare
 
-**Requirements: **<mark style="color:green;">**User**</mark>
+**Requirements:&#x20;**<mark style="color:green;">**User**</mark>
 
 **`CVE-2021-1675`** is a critical remote code execution and **local privilege escalation vulnerability dubbed "PrintNightmare."**
 

@@ -4,7 +4,7 @@ description: https://app.hackthebox.com/machines/114
 
 # Jeeves
 
-**Difficulty: **<mark style="color:red;">**HARD**</mark>
+**Difficulty:&#x20;**<mark style="color:red;">**HARD**</mark>
 
 ## Reconnaissance
 

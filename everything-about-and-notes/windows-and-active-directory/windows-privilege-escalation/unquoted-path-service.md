@@ -1,6 +1,6 @@
 # Unquoted Path Service
 
-**Permissions: **<mark style="color:green;">**User**</mark>
+**Permissions:&#x20;**<mark style="color:green;">**User**</mark>
 
 <figure><img src="../../../.gitbook/assets/priesc2.png" alt=""><figcaption></figcaption></figure>
 

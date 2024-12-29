@@ -16,7 +16,7 @@ coverY: 0
 
 **Active Directory lets you create security groups, setting up which users can access which network assets, such as shared files and applications.**&#x20;
 
-You can also organize your company’s network hierarchy. For example, it’s through AD that you determine which computers and printers belong on the network**.**
+You can also organize your company’s network hierarchy. For example, it’s through AD that you determine which computers and printers belong on the networ&#x6B;**.**
 
 &#x20;**Active Directory is the most commonly used identity management service in the world.**&#x20;
 
@@ -52,7 +52,7 @@ Contains all the information about the objects of the Active directory. Domains 
 
 ## **Trees**
 
-&#x20;Group of domains with the same root. **(Example: **_**dom.local, email.dom.local, www.dom.local)**_
+&#x20;Group of domains with the same root. **(Example:&#x20;**_**dom.local, email.dom.local, www.dom.local)**_
 
 <figure><img src="https://image2.slideserve.com/4321219/2-domain-trees-l.jpg" alt=""><figcaption></figcaption></figure>
 

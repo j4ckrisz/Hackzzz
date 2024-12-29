@@ -4,7 +4,7 @@ description: https://tryhackme.com/room/crocccrew
 
 # Crocc Crew
 
-**Difficulty: **<mark style="color:purple;">**Insane**</mark>
+**Difficulty:&#x20;**<mark style="color:purple;">**Insane**</mark>
 
 ## Reconnaissance
 
@@ -119,7 +119,7 @@ Once you get the hash continue to crack it.
 
 <figure><img src="../../../../.gitbook/assets/findelegation_infod.png" alt=""><figcaption></figcaption></figure>
 
-Use_`impacket-finddelegation`_to find delegation to extract more information about the **delegation**.
+Us&#x65;_`impacket-finddelegation`_&#x74;o find delegation to extract more information about the **delegation**.
 
 <figure><img src="../../../../.gitbook/assets/getST.png" alt=""><figcaption></figcaption></figure>
 

@@ -34,7 +34,7 @@ description: >-
 
 **Breakdown**
 
-* information\_schema**.tables** - list me all the tables.
+* information\_schem&#x61;**.tables** - list me all the tables.
 * **table\_name** - get me back the name of the tables.
 * **table\_schema** - name of the database we want to use.
 

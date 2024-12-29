@@ -1,6 +1,6 @@
 # Active
 
-**Difficulty: **<mark style="color:green;">**EASY**</mark>
+**Difficulty:&#x20;**<mark style="color:green;">**EASY**</mark>
 
 ## Reconnaissance
 

