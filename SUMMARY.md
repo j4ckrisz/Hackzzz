@@ -124,6 +124,7 @@
     * [Network Command's](everything-about-and-notes/windows-and-active-directory/windows-basic-commands/network-commands.md)
     * [Tasks](everything-about-and-notes/windows-and-active-directory/windows-basic-commands/tasks.md)
     * [Computer Slow Command's](everything-about-and-notes/windows-and-active-directory/windows-basic-commands/computer-slow-commands.md)
+    * [Bypass Windows Admin Prompt](everything-about-and-notes/windows-and-active-directory/windows-basic-commands/bypass-windows-admin-prompt.md)
   * [Active Directory](everything-about-and-notes/windows-and-active-directory/active-directory/README.md)
     * [AD Enumeration](everything-about-and-notes/windows-and-active-directory/active-directory/ad-enumeration.md)
     * [Man-In-The-Middle Attacks](everything-about-and-notes/windows-and-active-directory/active-directory/man-in-the-middle-attacks/README.md)
