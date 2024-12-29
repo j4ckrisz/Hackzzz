@@ -223,6 +223,7 @@
       * [Using captive portal attack](everything-about-and-notes/wireless-pentesting/evil-twin-attacks/wifipumpkin3/using-captive-portal-attack.md)
       * [Pulp scripts](everything-about-and-notes/wireless-pentesting/evil-twin-attacks/wifipumpkin3/pulp-scripts.md)
   * [WI-FI Pentesting Guide](https://github.com/ricardojoserf/wifi-pentesting-guide#71)
+  * [Wifi Hacking Using Windows CMD](everything-about-and-notes/wireless-pentesting/wifi-hacking-using-windows-cmd.md)
 * [🔥 Binary Explotation](everything-about-and-notes/binary-explotation/README.md)
   * [Assembly for Reverse Engineering](everything-about-and-notes/binary-explotation/assembly-for-reverse-engineering.md)
   * [Reversing](everything-about-and-notes/binary-explotation/reversing.md)
