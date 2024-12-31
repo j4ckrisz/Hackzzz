@@ -186,6 +186,7 @@
   * [Make attacks outside the network](everything-about-and-notes/social-engineering/make-attacks-outside-the-network/README.md)
     * [Ngrok](everything-about-and-notes/social-engineering/make-attacks-outside-the-network/ngrok.md)
   * [Social Engineering](https://github.com/giuliacassara/awesome-social-engineering)
+  * [Social Engineering by Cristopher hadnagy](everything-about-and-notes/social-engineering/social-engineering-by-cristopher-hadnagy.md)
 * [🕸️ Web Pentesting](everything-about-and-notes/web-pentesting/README.md)
   * [Web Basics](everything-about-and-notes/web-pentesting/web-basics.md)
   * [Information Gathering - Some One-liners](everything-about-and-notes/web-pentesting/information-gathering-some-one-liners.md)
