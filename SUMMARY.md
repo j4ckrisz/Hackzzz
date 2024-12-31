@@ -259,6 +259,7 @@
   * [Drone Hacking](resources/extras/drone-hacking.md)
   * [Password Cracking with Rules and Munging](resources/extras/password-cracking-with-rules-and-munging.md)
   * [Game Hacking](resources/extras/game-hacking.md)
+  * [Carding](resources/extras/carding.md)
   * [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist)
 * [🟦 Metasploit](resources/metasploit/README.md)
   * [Metasploit Modules](resources/metasploit/metasploit-modules.md)
