@@ -6,3 +6,4 @@ Searching for Usernames & Accounts:
 * Whatsmyname - [https://whatsmyname.app/](https://whatsmyname.app/)
 * Namecheckup - [https://namecheckup.com/](https://namecheckup.com/)
 * Instant Username - [https://instantusername.com/](https://instantusername.com/#/)
+* User Searcher - [https://www.user-searcher.com/](https://www.user-searcher.com/)
